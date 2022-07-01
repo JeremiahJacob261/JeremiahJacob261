@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on YouTube Smartonic J
+- 🤠 A ReactJs Intermediate Dev
+- 🐝 FullStack is a goal...
+- 🤔 Bash Scripting is my friend...
 
 <!---
 JeremiahJacob261/JeremiahJacob261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
