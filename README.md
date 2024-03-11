@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...Java and PHP
 - 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on ...
+- 👌 Mail @ jeremiahjacob261@gmail.com
 - 📫 How to reach me ...on YouTube Jerry Codes
 - 🤠 A ReactJs Intermediate Dev
 - 🐝 FullStack is a goal...
